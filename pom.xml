@@ -110,7 +110,6 @@
                 <version>${spring-boot.version}</version>
                 <configuration>
                     <mainClass>com.ll.brush_questions.BrushQuestionsApplication</mainClass>
-                    <skip>true</skip>
                 </configuration>
                 <executions>
                     <execution>
