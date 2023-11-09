@@ -7,8 +7,8 @@ spring:
     druid:
       driver-class-name: com.mysql.cj.jdbc.Driver
       url: jdbc:mysql://localhost:3306/brush_question
-      username: root
-      password: A147258369LL
+      username: htk
+      password: z!Kv:YDmJ53hDCy
   #Redis????
   redis:
     host: 192.168.1.140
